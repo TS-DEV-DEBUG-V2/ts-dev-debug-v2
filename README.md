@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="/assets/hi.gif?raw=true" width="45"> Hi, I'm TS-DEV-DEBUG-V2
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="45"> Hi, I'm TS-DEV-DEBUG-V2
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7F7&center=true&vCenter=true&random=false&width=600&lines=Systems+Programmer+%7C+Game+Porter;WebAssembly+Enthusiast+%7C+Emulator+Dev;Porting+Godot+%26+Unity+Games+to+the+Web;Low-Level+Wizard+%7C+Retro+Game+Fanatic" alt="Typing SVG" />
 
