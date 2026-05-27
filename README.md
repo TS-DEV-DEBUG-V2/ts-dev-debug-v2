@@ -279,7 +279,7 @@ Web Development      █████████████████░░�
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/nostalgiafun.pages.dev-Visit%20My%20Site-00ccff?style=for-the-badge&logo=cloudflarepages&logoColor=white)](https://nostalgiafun.pages.dev)
+[![Website](https://img.shields.io/badge/my-ubg-site->-nostaligafun.pages.dev-Visit%20My%20Site-00ccff?style=for-the-badge&logo=cloudflarepages&logoColor=white)](nostaligafun.pages.dev)
 [![GitHub](https://img.shields.io/badge/GitHub-TS--DEV--DEBUG--V2-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TS-DEV-DEBUG-V2)
 
 </div>
