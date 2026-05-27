@@ -198,9 +198,9 @@ I port **Godot** and **Unity** games to run entirely in the browser using **WebG
 | **Sonic's Basics** | ![Unity](https://img.shields.io/badge/Unity-000?style=for-the-badge&logo=unity&logoColor=white) | ![Ported](https://img.shields.io/badge/Ported-brightgreen?style=for-the-badge) |
 | **I Like Nuggs Mario Likes Nuggs** | ![Unity](https://img.shields.io/badge/Unity-000?style=for-the-badge&logo=unity&logoColor=white) | ![Ported](https://img.shields.io/badge/Ported-brightgreen?style=for-the-badge) |
 | **3 Cubed** | ![Unity](https://img.shields.io/badge/Unity-000?style=for-the-badge&logo=unity&logoColor=white) | ![Ported](https://img.shields.io/badge/Ported-brightgreen?style=for-the-badge) |
-| **Epstein Platformer 1** | ![Unity](https://img.shields.io/badge/Unity-000?style=for-the-badge&logo=unity&logoColor=white) | ![Ported](https://img.shields.io/badge/Ported-brightgreen?style=for-the-badge) |
-| **Epstein Platformer 2** | ![Unity](https://img.shields.io/badge/Unity-000?style=for-the-badge&logo=unity&logoColor=white) | ![Ported](https://img.shields.io/badge/Ported-brightgreen?style=for-the-badge) |
-| **Mari0** | ![Unity](https://img.shields.io/badge/Unity-000?style=for-the-badge&logo=unity&logoColor=white) | ![Ported](https://img.shields.io/badge/Ported-brightgreen?style=for-the-badge) |
+| **Epstein Platformer 1** | ![SDL2](https://img.shields.io/badge/SDL2-000?style=for-the-badge&logo=libsdl&logoColor=white) | ![Ported](https://img.shields.io/badge/Ported-brightgreen?style=for-the-badge) |
+| **Epstein Platformer 2** | ![SDL2](https://img.shields.io/badge/SDL2-000?style=for-the-badge&logo=libsdl&logoColor=white) | ![Ported](https://img.shields.io/badge/Ported-brightgreen?style=for-the-badge) |
+| **Mari0** | ![L0VE](https://img.shields.io/badge/L0VE-Lua%20Engine-ff69b4?style=for-the-badge&logo=lua&logoColor=white) | ![Custom Engine](https://img.shields.io/badge/Engine-Custom%20Lua%20(L0VE)-ffcc00?style=for-the-badge) |
 
 </div>
 
