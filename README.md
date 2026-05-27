@@ -212,32 +212,12 @@ I port **Godot** and **Unity** games to run entirely in the browser using **WebG
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=TS-DEV-DEBUG-V2&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ccff&icon_color=00ccff&text_color=c9d1d9&count_private=true&include_all_commits=true" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=TS-DEV-DEBUG-V2&theme=tokyonight&hide_border=true&background=0d1117&ring=00ccff&fire=ff6600&currStreakLabel=00ccff&sideLabels=00ccff&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555" />
-
-<br>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TS-DEV-DEBUG-V2&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ccff&text_color=c9d1d9&langs_count=10" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=TS-DEV-DEBUG-V2&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00ccff&line=00ccff&point=ff6600&area=true&area_color=00ccff" />
-
-<br>
-
 <img src="https://github-profile-trophy.vercel.app/?username=TS-DEV-DEBUG-V2&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
-
-<br>
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TS-DEV-DEBUG-V2&theme=tokyonight" width="95%" />
-
-<br>
-
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TS-DEV-DEBUG-V2&theme=tokyonight" />
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TS-DEV-DEBUG-V2&theme=tokyonight" />
-
-<br>
-
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TS-DEV-DEBUG-V2&theme=tokyonight" />
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TS-DEV-DEBUG-V2&theme=tokyonight&utcOffset=2" />
-
-<br>
-
 <img src="https://github-contributor-stats.vercel.app/api?username=TS-DEV-DEBUG-V2&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" width="49%" />
 <img src="https://streak-stats.demolab.com?user=TS-DEV-DEBUG-V2&theme=tokyonight&hide_border=true&background=0d1117" width="49%" />
 
