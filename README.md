@@ -218,7 +218,6 @@ I port **Godot** and **Unity** games to run entirely in the browser using **WebG
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TS-DEV-DEBUG-V2&theme=tokyonight" />
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TS-DEV-DEBUG-V2&theme=tokyonight" />
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TS-DEV-DEBUG-V2&theme=tokyonight&utcOffset=2" />
-<img src="https://github-contributor-stats.vercel.app/api?username=TS-DEV-DEBUG-V2&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" width="49%" />
 <img src="https://streak-stats.demolab.com?user=TS-DEV-DEBUG-V2&theme=tokyonight&hide_border=true&background=0d1117" width="49%" />
 
 </div>
@@ -232,7 +231,6 @@ I port **Godot** and **Unity** games to run entirely in the browser using **WebG
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/TS-DEV-DEBUG-V2/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/TS-DEV-DEBUG-V2/output/github-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/TS-DEV-DEBUG-V2/output/github-snake-dark.svg" />
 </picture>
 
 </div>
