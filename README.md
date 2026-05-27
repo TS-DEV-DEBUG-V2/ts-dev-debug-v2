@@ -43,13 +43,11 @@ When I'm not wrestling with WebGL shaders or debugging WASM memory, you can find
 ![JavaScript](https://img.shields.io/badge/JavaScript-Expert-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![CSS3](https://img.shields.io/badge/CSS3-Expert-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![HolyJS](https://img.shields.io/badge/HolyJS-Creator-ff6600?style=for-the-badge)
-
 ![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white)
 ![Emscripten](https://img.shields.io/badge/Emscripten-FFD700?style=for-the-badge&logo=webassembly&logoColor=black)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
 ![SDL](https://img.shields.io/badge/SDL2-1D3557?style=for-the-badge)
-
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -59,7 +57,6 @@ When I'm not wrestling with WebGL shaders or debugging WASM memory, you can find
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-
 ![Open Source](https://img.shields.io/badge/Open%20Source-Love-red?style=for-the-badge)
 ![Made with Fire](https://img.shields.io/badge/Made%20With-Fire-orange?style=for-the-badge)
 ![Works on my machine](https://img.shields.io/badge/Works-On%20My%20Machine-brightgreen?style=for-the-badge)
