@@ -7,8 +7,9 @@
 <br>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=TS-DEV-DEBUG-V2&color=00ccff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/TS-DEV-DEBUG-V2)
-[![GitHub followers](https://img.shields.io/github/followers/TS-DEV-DEBUG-V2?style=for-the-badge&color=00ccff&labelColor=0d1117&logo=github)](https://github.com/TS-DEV-DEBUG-V2)
-[![GitHub stars](https://img.shields.io/github/stars/TS-DEV-DEBUG-V2?style=for-the-badge&color=00ccff&labelColor=0d1117&logo=github)](https://github.com/TS-DEV-DEBUG-V2)
+[![Repos](https://badges.pufler.dev/repos/TS-DEV-DEBUG-V2?style=for-the-badge&color=00ccff&labelColor=0d1117&label=REPOS)](https://github.com/TS-DEV-DEBUG-V2?tab=repositories)
+[![Commits](https://badges.pufler.dev/commits/monthly/TS-DEV-DEBUG-V2?style=for-the-badge&color=00ccff&labelColor=0d1117&label=MONTHLY+COMMITS)](https://github.com/TS-DEV-DEBUG-V2)
+[![Years](https://badges.pufler.dev/years/TS-DEV-DEBUG-V2?style=for-the-badge&color=00ccff&labelColor=0d1117&label=YEARS+ON+GITHUB)](https://github.com/TS-DEV-DEBUG-V2)
 
 </div>
 
@@ -41,13 +42,13 @@ When I'm not wrestling with WebGL shaders or debugging WASM memory, you can find
 ![HTML5](https://img.shields.io/badge/HTML5-Expert-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Expert-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![CSS3](https://img.shields.io/badge/CSS3-Expert-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![HolyJS](https://img.shields.io/badge/HolyJS-Creator-ff6600?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHRleHQgeT0iMTgiIGZvbnQtc2l6ZT0iMTgiPuKavDwvdGV4dD48L3N2Zz4=&logoColor=white)
+![HolyJS](https://img.shields.io/badge/HolyJS-Creator-ff6600?style=for-the-badge)
 
 ![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white)
 ![Emscripten](https://img.shields.io/badge/Emscripten-FFD700?style=for-the-badge&logo=webassembly&logoColor=black)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
-![SDL](https://img.shields.io/badge/SDL2-1D3557?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHRleHQgeT0iMTgiIGZvbnQtc2l6ZT0iMTQiIGZpbGw9IndoaXRlIj5TREw8L3RleHQ+PC9zdmc+&logoColor=white)
+![SDL](https://img.shields.io/badge/SDL2-1D3557?style=for-the-badge)
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -59,11 +60,11 @@ When I'm not wrestling with WebGL shaders or debugging WASM memory, you can find
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
-![Open Source](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red?style=for-the-badge)
-![Made with Love](https://img.shields.io/badge/Made%20With-%F0%9F%94%A5-orange?style=for-the-badge)
+![Open Source](https://img.shields.io/badge/Open%20Source-Love-red?style=for-the-badge)
+![Made with Fire](https://img.shields.io/badge/Made%20With-Fire-orange?style=for-the-badge)
 ![Works on my machine](https://img.shields.io/badge/Works-On%20My%20Machine-brightgreen?style=for-the-badge)
 ![Mass Porting](https://img.shields.io/badge/Mass%20Porting-To%20The%20Web-blueviolet?style=for-the-badge)
-![Powered by Coffee](https://img.shields.io/badge/Powered%20By-Late%20Nights-black?style=for-the-badge)
+![Powered by Late Nights](https://img.shields.io/badge/Powered%20By-Late%20Nights-black?style=for-the-badge)
 
 </div>
 
@@ -138,7 +139,7 @@ When I'm not wrestling with WebGL shaders or debugging WASM memory, you can find
 > My own programming language. Built from the ground up.
 
 [![HolyJS](https://img.shields.io/badge/HolyJS-Language%20I%20Created-ff6600?style=for-the-badge)](https://github.com/TS-DEV-DEBUG-V2/HolyJS)
-[![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)](https://github.com/TS-DEV-DEBUG-V2/HolyJS)
+[![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)](https://github.com/TS-DEV-DEBUG-V2/HolyJS)
 
 ---
 
@@ -146,7 +147,7 @@ When I'm not wrestling with WebGL shaders or debugging WASM memory, you can find
 > A PlayStation emulator written in Rust.
 
 [![RustyStation](https://img.shields.io/badge/RustyStation-PS%20Emulator-000000?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/TS-DEV-DEBUG-V2/RustyStation)
-[![Lang](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)](https://github.com/TS-DEV-DEBUG-V2/RustyStation)
+[![Lang](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/TS-DEV-DEBUG-V2/RustyStation)
 
 ---
 
@@ -154,7 +155,7 @@ When I'm not wrestling with WebGL shaders or debugging WASM memory, you can find
 > A Game Boy emulator written in Rust.
 
 [![RustyBoy](https://img.shields.io/badge/RustyBoy-GB%20Emulator-6A0DAD?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/TS-DEV-DEBUG-V2/RustyBoy)
-[![Lang](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)](https://github.com/TS-DEV-DEBUG-V2/RustyBoy)
+[![Lang](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/TS-DEV-DEBUG-V2/RustyBoy)
 
 ---
 
@@ -183,26 +184,26 @@ When I'm not wrestling with WebGL shaders or debugging WASM memory, you can find
 
 ## Games I've Ported to the Web
 
-I port **Godot** and **Unity** games to run entirely in the browser using **WebGL**, **WebAssembly**, and **asm.js**. Here's the lineup:
+I port **Godot** and **Unity** games to run entirely in the browser using **WebGL**, **WebAssembly**, and **asm.js**. Here's the lineup so far -- all Unity ports:
 
 <div align="center">
 
 | Game | Engine | Status |
 |:-----|:------:|:------:|
-| **Ice Age Baby Adventure 3** | ![Unity](https://img.shields.io/badge/Unity-000?style=flat-square&logo=unity) | ![Ported](https://img.shields.io/badge/Ported-brightgreen?style=flat-square) |
-| **Qaldi's Steakhouse** | ![Unity](https://img.shields.io/badge/Unity-000?style=flat-square&logo=unity) | ![Ported](https://img.shields.io/badge/Ported-brightgreen?style=flat-square) |
-| **Three** | ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white) | ![Ported](https://img.shields.io/badge/Ported-brightgreen?style=flat-square) |
-| **Mlaldi's Barackhouse** | ![Unity](https://img.shields.io/badge/Unity-000?style=flat-square&logo=unity) | ![Ported](https://img.shields.io/badge/Ported-brightgreen?style=flat-square) |
-| **003** | ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white) | ![Ported](https://img.shields.io/badge/Ported-brightgreen?style=flat-square) |
-| **Diddy Basics** | ![Unity](https://img.shields.io/badge/Unity-000?style=flat-square&logo=unity) | ![Ported](https://img.shields.io/badge/Ported-brightgreen?style=flat-square) |
-| **Baldi's Basics Zero** | ![Unity](https://img.shields.io/badge/Unity-000?style=flat-square&logo=unity) | ![Ported](https://img.shields.io/badge/Ported-brightgreen?style=flat-square) |
-| **Cat (Baldi Mod)** | ![Unity](https://img.shields.io/badge/Unity-000?style=flat-square&logo=unity) | ![Ported](https://img.shields.io/badge/Ported-brightgreen?style=flat-square) |
-| **Sonic's Basics** | ![Unity](https://img.shields.io/badge/Unity-000?style=flat-square&logo=unity) | ![Ported](https://img.shields.io/badge/Ported-brightgreen?style=flat-square) |
-| **I Like Nuggs Mario Likes Nuggs** | ![Unity](https://img.shields.io/badge/Unity-000?style=flat-square&logo=unity) | ![Ported](https://img.shields.io/badge/Ported-brightgreen?style=flat-square) |
-| **3 Cubed** | ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white) | ![Ported](https://img.shields.io/badge/Ported-brightgreen?style=flat-square) |
-| **Epstein Platformer 1** | ![Unity](https://img.shields.io/badge/Unity-000?style=flat-square&logo=unity) | ![Ported](https://img.shields.io/badge/Ported-brightgreen?style=flat-square) |
-| **Epstein Platformer 2** | ![Unity](https://img.shields.io/badge/Unity-000?style=flat-square&logo=unity) | ![Ported](https://img.shields.io/badge/Ported-brightgreen?style=flat-square) |
-| **Mari0** | ![Unity](https://img.shields.io/badge/Unity-000?style=flat-square&logo=unity) | ![Ported](https://img.shields.io/badge/Ported-brightgreen?style=flat-square) |
+| **Ice Age Baby Adventure 3** | ![Unity](https://img.shields.io/badge/Unity-000?style=for-the-badge&logo=unity&logoColor=white) | ![Ported](https://img.shields.io/badge/Ported-brightgreen?style=for-the-badge) |
+| **Qaldi's Steakhouse** | ![Unity](https://img.shields.io/badge/Unity-000?style=for-the-badge&logo=unity&logoColor=white) | ![Ported](https://img.shields.io/badge/Ported-brightgreen?style=for-the-badge) |
+| **Three** | ![Unity](https://img.shields.io/badge/Unity-000?style=for-the-badge&logo=unity&logoColor=white) | ![Ported](https://img.shields.io/badge/Ported-brightgreen?style=for-the-badge) |
+| **Mlaldi's Barackhouse** | ![Unity](https://img.shields.io/badge/Unity-000?style=for-the-badge&logo=unity&logoColor=white) | ![Ported](https://img.shields.io/badge/Ported-brightgreen?style=for-the-badge) |
+| **003** | ![Unity](https://img.shields.io/badge/Unity-000?style=for-the-badge&logo=unity&logoColor=white) | ![Ported](https://img.shields.io/badge/Ported-brightgreen?style=for-the-badge) |
+| **Diddy Basics** | ![Unity](https://img.shields.io/badge/Unity-000?style=for-the-badge&logo=unity&logoColor=white) | ![Ported](https://img.shields.io/badge/Ported-brightgreen?style=for-the-badge) |
+| **Baldi's Basics Zero** | ![Unity](https://img.shields.io/badge/Unity-000?style=for-the-badge&logo=unity&logoColor=white) | ![Ported](https://img.shields.io/badge/Ported-brightgreen?style=for-the-badge) |
+| **Cat (Baldi Mod)** | ![Unity](https://img.shields.io/badge/Unity-000?style=for-the-badge&logo=unity&logoColor=white) | ![Ported](https://img.shields.io/badge/Ported-brightgreen?style=for-the-badge) |
+| **Sonic's Basics** | ![Unity](https://img.shields.io/badge/Unity-000?style=for-the-badge&logo=unity&logoColor=white) | ![Ported](https://img.shields.io/badge/Ported-brightgreen?style=for-the-badge) |
+| **I Like Nuggs Mario Likes Nuggs** | ![Unity](https://img.shields.io/badge/Unity-000?style=for-the-badge&logo=unity&logoColor=white) | ![Ported](https://img.shields.io/badge/Ported-brightgreen?style=for-the-badge) |
+| **3 Cubed** | ![Unity](https://img.shields.io/badge/Unity-000?style=for-the-badge&logo=unity&logoColor=white) | ![Ported](https://img.shields.io/badge/Ported-brightgreen?style=for-the-badge) |
+| **Epstein Platformer 1** | ![Unity](https://img.shields.io/badge/Unity-000?style=for-the-badge&logo=unity&logoColor=white) | ![Ported](https://img.shields.io/badge/Ported-brightgreen?style=for-the-badge) |
+| **Epstein Platformer 2** | ![Unity](https://img.shields.io/badge/Unity-000?style=for-the-badge&logo=unity&logoColor=white) | ![Ported](https://img.shields.io/badge/Ported-brightgreen?style=for-the-badge) |
+| **Mari0** | ![Unity](https://img.shields.io/badge/Unity-000?style=for-the-badge&logo=unity&logoColor=white) | ![Ported](https://img.shields.io/badge/Ported-brightgreen?style=for-the-badge) |
 
 </div>
 
@@ -237,6 +238,11 @@ I port **Godot** and **Unity** games to run entirely in the browser using **WebG
 
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TS-DEV-DEBUG-V2&theme=tokyonight" />
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TS-DEV-DEBUG-V2&theme=tokyonight&utcOffset=2" />
+
+<br>
+
+<img src="https://github-contributor-stats.vercel.app/api?username=TS-DEV-DEBUG-V2&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" width="49%" />
+<img src="https://streak-stats.demolab.com?user=TS-DEV-DEBUG-V2&theme=tokyonight&hide_border=true&background=0d1117" width="49%" />
 
 </div>
 
