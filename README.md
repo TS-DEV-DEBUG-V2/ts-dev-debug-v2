@@ -212,15 +212,12 @@ I port **Godot** and **Unity** games to run entirely in the browser using **WebG
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=TS-DEV-DEBUG-V2&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ccff&icon_color=00ccff&text_color=c9d1d9&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=TS-DEV-DEBUG-V2&theme=tokyonight&hide_border=true&background=0d1117&ring=00ccff&fire=ff6600&currStreakLabel=00ccff&sideLabels=00ccff&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555" />
-<img src="https://github-profile-trophy.vercel.app/?username=TS-DEV-DEBUG-V2&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TS-DEV-DEBUG-V2&theme=tokyonight" width="95%" />
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TS-DEV-DEBUG-V2&theme=tokyonight" />
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TS-DEV-DEBUG-V2&theme=tokyonight" />
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TS-DEV-DEBUG-V2&theme=tokyonight" />
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TS-DEV-DEBUG-V2&theme=tokyonight&utcOffset=2" />
-<img src="https://streak-stats.demolab.com?user=TS-DEV-DEBUG-V2&theme=tokyonight&hide_border=true&background=0d1117" width="49%" />
 
 </div>
 
