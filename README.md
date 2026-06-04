@@ -17,9 +17,11 @@
 
 ---
 
-<img align="right" alt="Coding" width="250" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+
 
 ## About Me
+
+<img align="right" alt="Coding" width="315" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 I'm **TS-DEV-DEBUG-V2** -- a systems programmer, emulator developer, and obsessive game porter. I spend most of my time porting **Godot** and **Unity** games to the browser using **WebAssembly**, **asm.js**, and **Emscripten**. If it runs on a desktop, I want it running in a browser tab.
 
