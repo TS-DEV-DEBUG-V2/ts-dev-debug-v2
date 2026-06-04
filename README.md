@@ -142,7 +142,6 @@ When I'm not wrestling with WebGL shaders or debugging WASM memory, you can find
 [![HolyJS](https://img.shields.io/badge/HolyJS-Language%20I%20Created-ff6600?style=for-the-badge)](https://github.com/TS-DEV-DEBUG-V2/HolyJS)
 [![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)](https://github.com/TS-DEV-DEBUG-V2/HolyJS)
 
----
 
 ### RustyStation
 > A PlayStation emulator written in Rust.
@@ -150,7 +149,6 @@ When I'm not wrestling with WebGL shaders or debugging WASM memory, you can find
 [![RustyStation](https://img.shields.io/badge/RustyStation-PS%20Emulator-000000?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/TS-DEV-DEBUG-V2/RustyStation)
 [![Lang](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/TS-DEV-DEBUG-V2/RustyStation)
 
----
 
 ### RustyBoy
 > A Game Boy emulator written in Rust.
@@ -158,21 +156,20 @@ When I'm not wrestling with WebGL shaders or debugging WASM memory, you can find
 [![RustyBoy](https://img.shields.io/badge/RustyBoy-GB%20Emulator-6A0DAD?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/TS-DEV-DEBUG-V2/RustyBoy)
 [![Lang](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/TS-DEV-DEBUG-V2/RustyBoy)
 
----
+
 
 ### gb-emu
 > Another Game Boy emulator -- because one isn't enough.
 
 [![gb-emu](https://img.shields.io/badge/gb--emu-GB%20Emulator-8B0000?style=for-the-badge)](https://github.com/TS-DEV-DEBUG-V2/gb-emu)
 
----
 
 ### nes-emu
 > NES emulator. Bringing 8-bit classics back to life.
 
 [![nes-emu](https://img.shields.io/badge/nes--emu-NES%20Emulator-CC0000?style=for-the-badge)](https://github.com/TS-DEV-DEBUG-V2/nes-emu)
 
----
+
 
 ### vgba-emu
 > A Game Boy Advance emulator.
