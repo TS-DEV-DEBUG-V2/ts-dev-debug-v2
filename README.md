@@ -237,13 +237,15 @@ I port **Godot** and **Unity** games to run entirely in the browser using **WebG
 
 ## What I Do
 
+<table>
+  <tr><td><b>Game Porting</b></td><td>████████████████████████████</td><td>95%</td></tr>
+  <tr><td><b>Emulator Dev</b></td><td>██████████████████████████░░</td><td>90%</td></tr>
+  <tr><td><b>Systems Programming</b></td><td>█████████████████████████░░░</td><td>85%</td></tr>
+  <tr><td><b>WebAssembly</b></td><td>████████████████████████░░░░</td><td>82%</td></tr>
+  <tr><td><b>Language Design</b></td><td>███████████████████░░░░░░░░░</td><td>65%</td></tr>
+  <tr><td><b>Web Development</b></td><td>█████████████████░░░░░░░░░░░</td><td>60%</td></tr>
+</table>
 
-**Game Porting         ████████████████████████████  95%**
-**Emulator Dev         ██████████████████████████░░  90%**
-**Systems Programming  █████████████████████████░░░  85%**
-**WebAssembly          ████████████████████████░░░░  82%**
-**Language Design      ███████████████████░░░░░░░░░  65%**
-**Web Development      █████████████████░░░░░░░░░░░  60%**
 
 
 ---
