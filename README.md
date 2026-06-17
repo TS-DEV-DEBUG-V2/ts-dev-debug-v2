@@ -15,7 +15,7 @@
 
 </div>
 
----
+
 
 
 
@@ -31,7 +31,7 @@ When I'm not wrestling with WebGL shaders or debugging WASM memory, you can find
 
 <br clear="right"/>
 
----
+
 
 ## Badges & Status
 
@@ -69,7 +69,7 @@ When I'm not wrestling with WebGL shaders or debugging WASM memory, you can find
 
 </div>
 
----
+
 
 ## Languages I Know
 
@@ -178,7 +178,7 @@ When I'm not wrestling with WebGL shaders or debugging WASM memory, you can find
 
 </div>
 
----
+
 
 ## Games I've Ported to the Web
 
@@ -205,7 +205,7 @@ I port **Godot** and **Unity** games to run entirely in the browser using **WebG
 
 </div>
 
----
+
 
 ## GitHub Stats
 
@@ -220,9 +220,9 @@ I port **Godot** and **Unity** games to run entirely in the browser using **WebG
 
 </div>
 
----
 
-## Contribution Graph
+
+
 
 <div align="center">
 
@@ -233,7 +233,7 @@ I port **Godot** and **Unity** games to run entirely in the browser using **WebG
 
 </div>
 
----
+
 
 ## What I Do
 
@@ -248,7 +248,7 @@ I port **Godot** and **Unity** games to run entirely in the browser using **WebG
 
 
 
----
+
 
 ## Connect
 
@@ -259,7 +259,7 @@ I port **Godot** and **Unity** games to run entirely in the browser using **WebG
 
 </div>
 
----
+
 
 <div align="center">
 
